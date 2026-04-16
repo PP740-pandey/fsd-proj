@@ -1,0 +1,19 @@
+# node
+node_modules/
+
+# build
+build/
+dist/
+
+# java
+target/
+*.class
+
+# env
+.env
+
+# logs
+*.log
+
+# OS
+.DS_Store
